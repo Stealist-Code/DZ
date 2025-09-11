@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Files\\Git\\Test\\DZ\\DZ1\\",
+  "WorkspaceRootPath": "D:\\Files\\Git\\DZ_\\DZ\\DZ1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED3D5F2-C731-47B3-AE9C-92E664A5BC92}|Practice\\Practice.csproj|d:\\files\\git\\test\\dz\\dz1\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ED3D5F2-C731-47B3-AE9C-92E664A5BC92}|Practice\\Practice.csproj|d:\\files\\git\\dz_\\dz\\dz1\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED3D5F2-C731-47B3-AE9C-92E664A5BC92}|Practice\\Practice.csproj|solutionrelative:practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF1F26FF-04ED-488A-A544-58A383B8DC74}|Tumakov\\Tumakov.csproj|D:\\Files\\Git\\Test\\DZ\\DZ1\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF1F26FF-04ED-488A-A544-58A383B8DC74}|Tumakov\\Tumakov.csproj|D:\\Files\\Git\\DZ_\\DZ\\DZ1\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF1F26FF-04ED-488A-A544-58A383B8DC74}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,10 +28,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program_practice.cs",
-              "DocumentMoniker": "D:\\Files\\Git\\Test\\DZ\\DZ1\\Practice\\Program_practice.cs",
+              "DocumentMoniker": "D:\\Files\\Git\\DZ_\\DZ\\DZ1\\Practice\\Program_practice.cs",
               "RelativeDocumentMoniker": "Practice\\Program_practice.cs",
-              "ToolTip": "D:\\Files\\Git\\Test\\DZ\\DZ1\\Practice\\Program_practice.cs*",
-              "RelativeToolTip": "Practice\\Program_practice.cs*",
+              "ToolTip": "D:\\Files\\Git\\DZ_\\DZ\\DZ1\\Practice\\Program_practice.cs",
+              "RelativeToolTip": "Practice\\Program_practice.cs",
               "ViewState": "AgIAAAABAAAAAAAAAAAQwB8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T14:28:48.928Z",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program_Tumakov.cs",
-              "DocumentMoniker": "D:\\Files\\Git\\Test\\DZ\\DZ1\\Tumakov\\Program_Tumakov.cs",
+              "DocumentMoniker": "D:\\Files\\Git\\DZ_\\DZ\\DZ1\\Tumakov\\Program_Tumakov.cs",
               "RelativeDocumentMoniker": "Tumakov\\Program_Tumakov.cs",
-              "ToolTip": "D:\\Files\\Git\\Test\\DZ\\DZ1\\Tumakov\\Program_Tumakov.cs",
+              "ToolTip": "D:\\Files\\Git\\DZ_\\DZ\\DZ1\\Tumakov\\Program_Tumakov.cs",
               "RelativeToolTip": "Tumakov\\Program_Tumakov.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
