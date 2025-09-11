@@ -285,6 +285,7 @@ namespace Practice
 
             Console.WriteLine(num);
 
+
             Console.ReadKey();
         }
     }
