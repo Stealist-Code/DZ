@@ -6,3 +6,11 @@ D:\Files\C#\DZ1\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
 D:\Files\C#\DZ1\Tumakov\obj\Debug\Tumakov.exe
 D:\Files\C#\DZ1\Tumakov\obj\Debug\Tumakov.pdb
 D:\Files\C#\DZ1\Tumakov\obj\Debug\Tumakov.exe.config
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\bin\Debug\Tumakov.exe.config
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\bin\Debug\Tumakov.exe
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\bin\Debug\Tumakov.pdb
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\obj\Debug\Tumakov.exe.config
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\obj\Debug\Tumakov.exe
+D:\Files\Git\DZ_\DZ\DZ1\Tumakov\obj\Debug\Tumakov.pdb

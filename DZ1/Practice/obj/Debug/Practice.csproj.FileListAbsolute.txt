@@ -14,3 +14,11 @@ D:\Files\Git\Test\DZ\DZ1\Practice\obj\Debug\Practice.exe.config
 D:\Files\Git\Test\DZ\DZ1\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
 D:\Files\Git\Test\DZ\DZ1\Practice\obj\Debug\Practice.exe
 D:\Files\Git\Test\DZ\DZ1\Practice\obj\Debug\Practice.pdb
+D:\Files\Git\DZ_\DZ\DZ1\Practice\bin\Debug\Practice.exe.config
+D:\Files\Git\DZ_\DZ\DZ1\Practice\bin\Debug\Practice.exe
+D:\Files\Git\DZ_\DZ\DZ1\Practice\bin\Debug\Practice.pdb
+D:\Files\Git\DZ_\DZ\DZ1\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\Files\Git\DZ_\DZ\DZ1\Practice\obj\Debug\Practice.exe.config
+D:\Files\Git\DZ_\DZ\DZ1\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Files\Git\DZ_\DZ\DZ1\Practice\obj\Debug\Practice.exe
+D:\Files\Git\DZ_\DZ\DZ1\Practice\obj\Debug\Practice.pdb

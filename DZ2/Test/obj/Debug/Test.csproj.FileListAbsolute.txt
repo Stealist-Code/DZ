@@ -1,0 +1,8 @@
+D:\Files\C#\DZ2\Test\bin\Debug\Test.exe.config
+D:\Files\C#\DZ2\Test\bin\Debug\Test.exe
+D:\Files\C#\DZ2\Test\bin\Debug\Test.pdb
+D:\Files\C#\DZ2\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Files\C#\DZ2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ2\Test\obj\Debug\Test.exe
+D:\Files\C#\DZ2\Test\obj\Debug\Test.pdb
+D:\Files\C#\DZ2\Test\obj\Debug\Test.exe.config

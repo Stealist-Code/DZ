@@ -10,7 +10,7 @@ namespace Practice
             // Упражнение 1
             Console.WriteLine("Упражнение 1\n");
 
-            string numberE = ((float)(Math.E)).ToString();
+            string numberE = (Math.E).ToString();
             string numberE2 = numberE.Substring(0,3);
             Console.WriteLine(numberE2);
 

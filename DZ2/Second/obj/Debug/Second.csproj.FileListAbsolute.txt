@@ -1,0 +1,7 @@
+D:\Files\C#\DZ2\Second\bin\Debug\Second.exe.config
+D:\Files\C#\DZ2\Second\bin\Debug\Second.exe
+D:\Files\C#\DZ2\Second\bin\Debug\Second.pdb
+D:\Files\C#\DZ2\Second\obj\Debug\Second.csproj.AssemblyReference.cache
+D:\Files\C#\DZ2\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ2\Second\obj\Debug\Second.exe
+D:\Files\C#\DZ2\Second\obj\Debug\Second.pdb

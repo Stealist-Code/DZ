@@ -1,0 +1,8 @@
+D:\Files\C#\DZ2\Tumakov\bin\Debug\Tumakov.exe.config
+D:\Files\C#\DZ2\Tumakov\bin\Debug\Tumakov.exe
+D:\Files\C#\DZ2\Tumakov\bin\Debug\Tumakov.pdb
+D:\Files\C#\DZ2\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+D:\Files\C#\DZ2\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ2\Tumakov\obj\Debug\Tumakov.exe
+D:\Files\C#\DZ2\Tumakov\obj\Debug\Tumakov.pdb
+D:\Files\C#\DZ2\Tumakov\obj\Debug\Tumakov.exe.config
