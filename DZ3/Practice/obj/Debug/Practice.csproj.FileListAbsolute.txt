@@ -1,0 +1,8 @@
+D:\Files\C#\DZ3\Practice\bin\Debug\Practice.exe.config
+D:\Files\C#\DZ3\Practice\bin\Debug\Practice.exe
+D:\Files\C#\DZ3\Practice\bin\Debug\Practice.pdb
+D:\Files\C#\DZ3\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\Files\C#\DZ3\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ3\Practice\obj\Debug\Practice.exe
+D:\Files\C#\DZ3\Practice\obj\Debug\Practice.pdb
+D:\Files\C#\DZ3\Practice\obj\Debug\Practice.exe.config
