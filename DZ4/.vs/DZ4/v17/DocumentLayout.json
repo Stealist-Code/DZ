@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ4\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|solutionrelative:practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DE2751-7E32-4CBF-859C-5D5B930D0673}|Tumakov\\Tumakov.csproj|d:\\files\\c#\\dz4\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DE2751-7E32-4CBF-859C-5D5B930D0673}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|d:\\files\\c#\\dz4\\practice\\enum_struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|solutionrelative:practice\\enum_struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|d:\\files\\c#\\dz4\\practice\\enum_struct\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE428407-36C5-4254-92FA-605627235796}|Practice\\Practice.csproj|solutionrelative:practice\\enum_struct\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ4\\Practice\\Enum_Struct\\Struct.cs",
+              "RelativeDocumentMoniker": "Practice\\Enum_Struct\\Struct.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ4\\Practice\\Enum_Struct\\Struct.cs",
+              "RelativeToolTip": "Practice\\Enum_Struct\\Struct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:15:23.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ4\\Practice\\Enum_Struct\\Enum.cs",
+              "RelativeDocumentMoniker": "Practice\\Enum_Struct\\Enum.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ4\\Practice\\Enum_Struct\\Enum.cs",
+              "RelativeToolTip": "Practice\\Enum_Struct\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:15:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program_tumakov.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ4\\Tumakov\\Program_tumakov.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Program_tumakov.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ4\\Tumakov\\Program_tumakov.cs",
+              "RelativeToolTip": "Tumakov\\Program_tumakov.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv5wAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:52:27.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_practice.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ4\\Practice\\Program_practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Program_practice.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ4\\Practice\\Program_practice.cs",
+              "RelativeToolTip": "Practice\\Program_practice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:56:19.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
