@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|d:\\files\\c#\\dz5\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|d:\\files\\c#\\dz5\\practice\\structs\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\structs\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|d:\\files\\c#\\dz5\\practice\\structs\\grandma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\structs\\grandma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77C9EF6-8AEA-472C-9CA9-BBB0D69FA228}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ5\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77C9EF6-8AEA-472C-9CA9-BBB0D69FA228}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77C9EF6-8AEA-472C-9CA9-BBB0D69FA228}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ5\\tumakov\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B77C9EF6-8AEA-472C-9CA9-BBB0D69FA228}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ5\\practice\\files\\text\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\files\\text\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ5\\practice\\enums\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\enums\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ5\\practice\\structs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2701C9EC-26FD-4D8F-965A-28CA1DD54921}|Practice\\Practice.csproj|solutionrelative:practice\\structs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grandma.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Grandma.cs",
+              "RelativeDocumentMoniker": "Practice\\Structs\\Grandma.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Grandma.cs",
+              "RelativeToolTip": "Practice\\Structs\\Grandma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:46:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Hospital.cs",
+              "RelativeDocumentMoniker": "Practice\\Structs\\Hospital.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Hospital.cs",
+              "RelativeToolTip": "Practice\\Structs\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:46:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_practice.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Program_practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Program_practice.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Program_practice.cs",
+              "RelativeToolTip": "Practice\\Program_practice.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAswH4BAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:31:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.txt",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Files\\Text\\Students.txt",
+              "RelativeDocumentMoniker": "Practice\\Files\\Text\\Students.txt",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Files\\Text\\Students.txt",
+              "RelativeToolTip": "Practice\\Files\\Text\\Students.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-16T17:15:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Enums\\Exams.cs",
+              "RelativeDocumentMoniker": "Practice\\Enums\\Exams.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Enums\\Exams.cs",
+              "RelativeToolTip": "Practice\\Enums\\Exams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:07:06.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Student.cs",
+              "RelativeDocumentMoniker": "Practice\\Structs\\Student.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Practice\\Structs\\Student.cs",
+              "RelativeToolTip": "Practice\\Structs\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:02:29.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program_tumakov.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Tumakov\\Program_tumakov.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Program_tumakov.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Tumakov\\Program_tumakov.cs",
+              "RelativeToolTip": "Tumakov\\Program_tumakov.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAiwB4BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:29:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ5\\Tumakov\\Files\\Text.txt",
+              "RelativeDocumentMoniker": "Tumakov\\Files\\Text.txt",
+              "ToolTip": "D:\\Files\\C#\\DZ5\\Tumakov\\Files\\Text.txt",
+              "RelativeToolTip": "Tumakov\\Files\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-15T16:57:39.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
