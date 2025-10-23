@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ6\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|solutionrelative:practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|d:\\files\\c#\\dz6\\practice\\classes\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ6\\practice\\classes\\organic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\organic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ6\\practice\\classes\\inorganic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\inorganic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ6\\practice\\classes\\dump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500FCF8A-69AA-4771-A332-5B001F51D90B}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\dump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dump.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Dump.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Dump.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Dump.cs",
+              "RelativeToolTip": "Practice\\Classes\\Dump.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:33:18.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inorganic.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Inorganic.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Inorganic.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Inorganic.cs",
+              "RelativeToolTip": "Practice\\Classes\\Inorganic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:33:17.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Organic.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Organic.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Organic.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Organic.cs",
+              "RelativeToolTip": "Practice\\Classes\\Organic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:33:16.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Waste.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Waste.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Waste.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ6\\Practice\\Classes\\Waste.cs",
+              "RelativeToolTip": "Practice\\Classes\\Waste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:33:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_practice.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ6\\Practice\\Program_practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Program_practice.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ6\\Practice\\Program_practice.cs",
+              "RelativeToolTip": "Practice\\Program_practice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:33:13.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
