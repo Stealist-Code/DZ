@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|D:\\Files\\C#\\DZ8\\practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\program_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\teamlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\teamlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|d:\\files\\c#\\dz8\\practice\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B05679A-9137-4243-AC54-0ACDB9CAE59A}|Practice\\Practice.csproj|solutionrelative:practice\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Report.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Report.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Report.cs",
+              "RelativeToolTip": "Practice\\Classes\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Task.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Task.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Task.cs",
+              "RelativeToolTip": "Practice\\Classes\\Task.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamLider.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\TeamLider.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\TeamLider.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\TeamLider.cs",
+              "RelativeToolTip": "Practice\\Classes\\TeamLider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Project.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Project.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Project.cs",
+              "RelativeToolTip": "Practice\\Classes\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Person.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Person.cs",
+              "RelativeToolTip": "Practice\\Classes\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Employee.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Employee.cs",
+              "RelativeToolTip": "Practice\\Classes\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Customer.cs",
+              "RelativeDocumentMoniker": "Practice\\Classes\\Customer.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Classes\\Customer.cs",
+              "RelativeToolTip": "Practice\\Classes\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:16:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_practice.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ8\\Practice\\Program_practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Program_practice.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ8\\Practice\\Program_practice.cs",
+              "RelativeToolTip": "Practice\\Program_practice.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:21:53.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
