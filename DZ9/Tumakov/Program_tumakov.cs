@@ -12,12 +12,16 @@ namespace Tumakov
             Console.Write("Текст для шифрования ACipher: ");
             string textForACipher = Console.ReadLine();
             var aCipherObject = new ACipher();
-            aCipherObject.Encode(textForACipher);
+            var resultA = aCipherObject.Encode(textForACipher);
+            Console.WriteLine($"Зашифрованный текст: {resultA}");
+            Console.WriteLine($"Дешифрованный текст: {aCipherObject.Decode(resultA)}");
 
             Console.Write("Текст для шифрования BCipher: ");
             string textForBCipher = Console.ReadLine();
             var bCipherObject = new BCipher();
-            bCipherObject.Encode(textForBCipher);
+            var resultB = bCipherObject.Encode(textForBCipher);
+            Console.WriteLine($"Зашифрованный текст: {resultB}");
+            Console.WriteLine($"Дешифрованный текст: {bCipherObject.Decode(resultB)}");
         }
 
         static void HomeWork_10()

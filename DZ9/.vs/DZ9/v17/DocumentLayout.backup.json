@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Files\\C#\\DZ9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|d:\\files\\c#\\dz9\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|d:\\files\\c#\\dz9\\tumakov\\classes\\acipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\acipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\interfaces\\icipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\interfaces\\icipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\bcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\bcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,67 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Tumakov\\Classes\\Rectangle.cs",
-              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Rectangle.cs",
-              "RelativeToolTip": "Tumakov\\Classes\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:20:17.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Circle.cs",
-              "RelativeDocumentMoniker": "Tumakov\\Classes\\Circle.cs",
-              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Circle.cs",
-              "RelativeToolTip": "Tumakov\\Classes\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Title": "BCipher.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\BCipher.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\BCipher.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\BCipher.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\BCipher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:20:08.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Figure.cs",
-              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Figure.cs",
-              "RelativeDocumentMoniker": "Tumakov\\Classes\\Figure.cs",
-              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Figure.cs*",
-              "RelativeToolTip": "Tumakov\\Classes\\Figure.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:33:30.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Point.cs",
-              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Point.cs",
-              "RelativeDocumentMoniker": "Tumakov\\Classes\\Point.cs",
-              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Point.cs",
-              "RelativeToolTip": "Tumakov\\Classes\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:11:55.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T18:27:51.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ICipher.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Interfaces\\ICipher.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Interfaces\\ICipher.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Interfaces\\ICipher.cs",
+              "RelativeToolTip": "Tumakov\\Interfaces\\ICipher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:25:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program_tumakov.cs",
               "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Program_tumakov.cs",
               "RelativeDocumentMoniker": "Tumakov\\Program_tumakov.cs",
               "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Program_tumakov.cs",
               "RelativeToolTip": "Tumakov\\Program_tumakov.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T12:17:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ACipher.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\ACipher.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\ACipher.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\ACipher.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\ACipher.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:24:55.168Z",
               "EditorCaption": ""
             }
           ]

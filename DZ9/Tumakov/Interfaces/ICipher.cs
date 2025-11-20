@@ -4,7 +4,7 @@ namespace Tumakov.Interfaces
 {
     public interface ICipher
     {
-        void Encode(string input);
-        void Decode();
+        string Encode(string input);
+        string Decode(string input);
     }
 }

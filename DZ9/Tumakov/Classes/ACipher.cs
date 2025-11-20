@@ -6,9 +6,12 @@ namespace Tumakov.Classes
 {
     class ACipher: ICipher
     {
-        public void Encode(string input)
+        public string Encode(string input)
         {
-            char charConverted;
+            string UpperRus = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+            string LowerRus = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+            string UpperEng = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            string LowerEng = "abcdefghijklmnopqrstuvwxyz";
             char[] chars = input.ToCharArray();
             StringBuilder output = new StringBuilder();
             foreach (char c in chars)
@@ -17,30 +20,82 @@ namespace Tumakov.Classes
                 {
                     output.Append(c);
                 }
-                else if (c == 'ё')
+                else if (UpperRus.IndexOf(c) != -1)
                 {
-                    output.Append('ж');
+                    int index = UpperRus.IndexOf(c);
+                    int newIndex = (index + 1) % UpperRus.Length;
+                    output.Append(UpperRus[newIndex]);
                 }
-                else if (c == 'Ё')
+                else if (LowerRus.IndexOf(c) != -1)
                 {
-                    output.Append('Ж');
+                    int index = LowerRus.IndexOf(c);
+                    int newIndex = (index + 1) % LowerRus.Length;
+                    output.Append(LowerRus[newIndex]);
                 }
-                else if (Char.IsLower(c))
+                else if (UpperEng.IndexOf(c) != -1)
                 {
-                    charConverted = (c <= 'z') ? (char)((c + 1) % 32 + 'a') : (char)((c + 1) % 32 + 'а');
-                    output.Append(charConverted);
+                    int index = UpperEng.IndexOf(c);
+                    int newIndex = (index + 1) % UpperEng.Length;
+                    output.Append(UpperEng[newIndex]);
+                }
+                else if (LowerEng.IndexOf(c) != -1)
+                {
+                    int index = LowerEng.IndexOf(c);
+                    int newIndex = (index + 1) % LowerEng.Length;
+                    output.Append(LowerEng[newIndex]);
                 }
                 else
                 {
-                    charConverted = (c <= 'Z') ? (char)((c + 1) % 32 + 'A') : (char)((c + 1) % 32 + 'А');
-                    output.Append(charConverted);
+                    output.Append(c);
                 }
             }
-            Console.WriteLine(output.ToString());
-        }
-        public void Decode()
-        {
+            return output.ToString();
 
+        }
+        public string Decode(string input)
+        {
+            string UpperRus = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+            string LowerRus = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+            string UpperEng = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            string LowerEng = "abcdefghijklmnopqrstuvwxyz";
+            char[] chars = input.ToCharArray();
+            StringBuilder output = new StringBuilder();
+            foreach (char c in chars)
+            {
+                if (!Char.IsLetter(c))
+                {
+                    output.Append(c);
+                }
+                else if (UpperRus.IndexOf(c) != -1)
+                {
+                    int index = UpperRus.IndexOf(c);
+                    int newIndex = (index - 1 + UpperRus.Length) % UpperRus.Length;
+                    output.Append(UpperRus[newIndex]);
+                }
+                else if (LowerRus.IndexOf(c) != -1)
+                {
+                    int index = LowerRus.IndexOf(c);
+                    int newIndex = (index - 1 + LowerRus.Length) % LowerRus.Length;
+                    output.Append(LowerRus[newIndex]);
+                }
+                else if (UpperEng.IndexOf(c) != -1)
+                {
+                    int index = UpperEng.IndexOf(c);
+                    int newIndex = (index - 1 + UpperEng.Length) % UpperEng.Length;
+                    output.Append(UpperEng[newIndex]);
+                }
+                else if (LowerEng.IndexOf(c) != -1)
+                {
+                    int index = LowerEng.IndexOf(c);
+                    int newIndex = (index - 1 + LowerEng.Length) % LowerEng.Length;
+                    output.Append(LowerEng[newIndex]);
+                }
+                else
+                {
+                    output.Append(c);
+                }
+            }
+            return output.ToString();
         }
     }
 }
