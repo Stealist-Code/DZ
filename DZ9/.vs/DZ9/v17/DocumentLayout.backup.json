@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|d:\\files\\c#\\dz9\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ9\\tumakov\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CCED90-C882-41A2-B5A6-450F2C1FA3DA}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\Rectangle.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:20:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Circle.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\Circle.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Circle.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:20:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Figure.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\Figure.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Figure.cs*",
+              "RelativeToolTip": "Tumakov\\Classes\\Figure.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:33:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Point.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\Point.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Classes\\Point.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:11:55.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program_tumakov.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ9\\Tumakov\\Program_tumakov.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Program_tumakov.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ9\\Tumakov\\Program_tumakov.cs",
+              "RelativeToolTip": "Tumakov\\Program_tumakov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:17:24.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
