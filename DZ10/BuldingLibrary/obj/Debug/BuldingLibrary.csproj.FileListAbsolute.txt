@@ -1,0 +1,6 @@
+D:\Files\C#\DZ10\BuldingLibrary\bin\Debug\BuldingLibrary.dll
+D:\Files\C#\DZ10\BuldingLibrary\bin\Debug\BuldingLibrary.pdb
+D:\Files\C#\DZ10\BuldingLibrary\obj\Debug\BuldingLibrary.csproj.AssemblyReference.cache
+D:\Files\C#\DZ10\BuldingLibrary\obj\Debug\BuldingLibrary.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ10\BuldingLibrary\obj\Debug\BuldingLibrary.dll
+D:\Files\C#\DZ10\BuldingLibrary\obj\Debug\BuldingLibrary.pdb

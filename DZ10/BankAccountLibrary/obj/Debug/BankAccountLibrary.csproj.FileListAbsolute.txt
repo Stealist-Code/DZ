@@ -1,0 +1,6 @@
+D:\Files\C#\DZ10\BankAccountLibrary\obj\Debug\BankAccountLibrary.csproj.AssemblyReference.cache
+D:\Files\C#\DZ10\BankAccountLibrary\obj\Debug\BankAccountLibrary.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ10\BankAccountLibrary\bin\Debug\BankAccountLibrary.dll
+D:\Files\C#\DZ10\BankAccountLibrary\bin\Debug\BankAccountLibrary.pdb
+D:\Files\C#\DZ10\BankAccountLibrary\obj\Debug\BankAccountLibrary.dll
+D:\Files\C#\DZ10\BankAccountLibrary\obj\Debug\BankAccountLibrary.pdb

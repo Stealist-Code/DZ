@@ -1,0 +1,13 @@
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\TestCaseForDLL.exe.config
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\TestCaseForDLL.exe
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\TestCaseForDLL.pdb
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCaseForDLL.csproj.AssemblyReference.cache
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCaseForDLL.csproj.CoreCompileInputs.cache
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCaseForDLL.exe
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCaseForDLL.pdb
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\BankAccountLibrary.dll
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\BankAccountLibrary.pdb
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCase.F2139109.Up2Date
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\BuldingLibrary.dll
+D:\Files\C#\DZ10\TestCaseForDLL\bin\Debug\BuldingLibrary.pdb
+D:\Files\C#\DZ10\TestCaseForDLL\obj\Debug\TestCaseForDLL.exe.config

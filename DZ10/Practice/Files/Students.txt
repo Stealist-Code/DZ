@@ -1,0 +1,10 @@
+﻿1,Иван Петров,1,NormalStudent
+2,Мария Сидорова,2,LazyStudent
+3,Алексей Козлов,1,NormalStudent
+4,Екатерина Новикова,3,FreeloaderStudent
+5,Дмитрий Волков,2,NormalStudent
+6,Анна Орлова,1,LazyStudent
+7,Сергей Морозов,3,NormalStudent
+8,Ольга Павлова,2,FreeloaderStudent
+9,Павел Лебедев,1,NormalStudent
+10,Наталья Семенова,3,LazyStudent
