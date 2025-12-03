@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\C#\\DZ11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\rationalnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\rationalnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\developerinfoforbuildingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\developerinfoforbuildingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\developerinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\developerinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|d:\\files\\c#\\dz11\\tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\program_tumakov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\enums\\typebankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\enums\\typebankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|D:\\Files\\C#\\DZ11\\tumakov\\classes\\severalbuildings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171A2A54-5A6F-4E0A-819F-016766B0CB7C}|Tumakov\\Tumakov.csproj|solutionrelative:tumakov\\classes\\severalbuildings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeveloperInfoForBuildingAttribute.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\DeveloperInfoForBuildingAttribute.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\DeveloperInfoForBuildingAttribute.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\DeveloperInfoForBuildingAttribute.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\DeveloperInfoForBuildingAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:24:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeveloperInfoAttribute.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\DeveloperInfoAttribute.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\DeveloperInfoAttribute.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\DeveloperInfoAttribute.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\DeveloperInfoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:43:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RationalNumbers.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\RationalNumbers.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\RationalNumbers.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\RationalNumbers.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\RationalNumbers.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:37:30.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeveralBuildings.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\SeveralBuildings.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\SeveralBuildings.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\SeveralBuildings.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\SeveralBuildings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:37:34.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\Building.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\Building.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\Building.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\Building.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:27:57.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\BankTransaction.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\BankTransaction.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\BankTransaction.cs",
+              "RelativeToolTip": "Tumakov\\Classes\\BankTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:07:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Classes\\BankAccount.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Classes\\BankAccount.cs*",
+              "RelativeToolTip": "Tumakov\\Classes\\BankAccount.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:56:15.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeBankAccount.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Enums\\TypeBankAccount.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Enums\\TypeBankAccount.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Enums\\TypeBankAccount.cs",
+              "RelativeToolTip": "Tumakov\\Enums\\TypeBankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:58:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program_tumakov.cs",
+              "DocumentMoniker": "D:\\Files\\C#\\DZ11\\Tumakov\\Program_tumakov.cs",
+              "RelativeDocumentMoniker": "Tumakov\\Program_tumakov.cs",
+              "ToolTip": "D:\\Files\\C#\\DZ11\\Tumakov\\Program_tumakov.cs",
+              "RelativeToolTip": "Tumakov\\Program_tumakov.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:54:30.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
