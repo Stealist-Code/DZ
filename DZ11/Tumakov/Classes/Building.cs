@@ -5,8 +5,7 @@ namespace Tumakov.Classes
     [DeveloperInfoForBuilding()]
     class Building
     {
-        private static int increasingNumber = 1;
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public decimal Height { get; set; }
         public int NumbFloors { get; set; }
         public int NumbFlat { get; set; }
@@ -14,25 +13,20 @@ namespace Tumakov.Classes
 
         public Building(decimal height, int numbfloors, int numbflat, int numbentrance)
         {
-            Id = NumberChange();
+            Id = Guid.NewGuid();
             Height = height;
             NumbFloors = numbfloors;
-            NumbFlat = numbentrance;
+            NumbFlat = numbflat;
             NumbEntrance = numbentrance;
         }
 
-        public Building(int id, decimal height, int numbfloors, int numbflat, int numbentrance)
+        public Building()
         {
-            Id = id;
-            Height = height;
-            NumbFloors = numbfloors;
-            NumbFlat = numbentrance;
-            NumbEntrance = numbentrance;
-        }
-
-        private static int NumberChange()
-        {
-            return increasingNumber++;
+            Id = Guid.NewGuid();
+            Height = 1;
+            NumbFloors = 1;
+            NumbFlat = 1;
+            NumbEntrance = 1;
         }
 
         public void PrintInfo() //Вывод информации

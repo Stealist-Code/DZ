@@ -3,6 +3,7 @@
 namespace Tumakov.Classes
 {
     [DeveloperInfo("Bob", "2025-10-01")]
+    [DeveloperInfo()]
     class RationalNumbers
     {
         public int Numerator { get; set; }

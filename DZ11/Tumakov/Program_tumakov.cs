@@ -20,7 +20,7 @@ namespace Tumakov
 
         static void PrintInfoForBankAccount(BankAccount bankAccount)
         {
-            Console.WriteLine($"\nБанковский счет #{bankAccount.Number}");
+            Console.WriteLine($"\nБанковский счет #{bankAccount.Id}");
             Console.WriteLine($"Баланс: {bankAccount.Balance}\nТип: {bankAccount.Type}\nДержатель: {bankAccount.Holder}");
         }
 
@@ -47,9 +47,14 @@ namespace Tumakov
 
         static void HomeWork_13_1()
         {
-            var build1 = new Building(50.0m, 10, 100, 2);
+            var build1 = new Building(50m, 10, 100, 2);
             var build2 = new Building(35m, 20, 32, 3);
             PrintInfoForBuilding(build1);
+            PrintInfoForBuilding(build2);
+            build1.NumbFlat = 150;
+            build2.Height = 25m;
+            PrintInfoForBuilding(build1);
+            PrintInfoForBuilding(build2);
         }
 
         static void PrintInfoForBuilding(Building building)
@@ -94,14 +99,10 @@ namespace Tumakov
         static void FindAttributeExercise_14_2()
         {
             Type type = typeof(RationalNumbers);
-            var attribute = type.GetCustomAttribute<DeveloperInfoAttribute>();
-            if (attribute != null)
+            var attributes = type.GetCustomAttributes<DeveloperInfoAttribute>();
+            foreach (var attribute in attributes)
             {
                 attribute.Print();
-            }
-            else
-            {
-                Console.WriteLine("Атрибут не найден.");
             }
         }
 

@@ -14,7 +14,7 @@ namespace Tumakov.Classes
         {
             get
             {
-                if (index >= 0 || index <= Buildings.Length)
+                if (index >= 0 || index < Buildings.Length)
                 {
                     return Buildings[index];
                 }

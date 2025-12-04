@@ -2,7 +2,7 @@
 
 namespace Tumakov.Classes
 {
-    [AttributeUsage(AttributeTargets.Class)]
+    [AttributeUsage(AttributeTargets.Class, AllowMultiple = true)]
     public class DeveloperInfoAttribute : Attribute
     {
         public string NameDeveloper { get; private set; }
